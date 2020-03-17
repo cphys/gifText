@@ -4,8 +4,10 @@
 ## Instructions
 ### Creating the gif
 * Save the script in the same directory as an existing gif such as
+
 ![](yell.gif)
 * Run script and text will automatically be added to new gif and saved
+
 ![](yellNew.gif)
 
 ### Changing variables
